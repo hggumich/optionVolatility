@@ -1,0 +1,62 @@
+A cash transaction, both parties agree on terms, followed immediately by an exchange of money for goods.
+
+A forward contract is when both parties agree on the terms now, but the exchange of money for goods does not take place until some later date, the maturity or expiration date.
+
+A forward contract involves foregoing any interest earnings. Parties must negotiate a term forward price that takes into consideration the loss of interest on over all price.
+
+Forward contracts are common when a buyer requires goods in the future or when a seller knows that a supply of goods will be ready for sale in the future.
+
+In order to eliminate the risk of rising or falling prices, buyer buy in the forward market -- agreeing on a price now but not taking delivery or making payment until some later date.
+
+Forward contract is traded on an organized exchange referred to as a future contract.
+
+Future contracts are standardized with quantity and quality of goods to be delivered, the date and place of delivery, and the method of payment.
+
+The exchange guarantees the integrity of the contracts, if buyer or seller default; the exhange assumes the responsibility of fulfilling the terms.
+
+Total value of exchange exceeds the value of physical commodities.
+
+Forward contracts may need to negotiate a separate payment to compensate for uncertainty.
+
+A call option contract gives one party the right to make a decision at a later date.
+
+A put option contract gives one party the right to decide whether to sell at a later date.
+
+A insurance option is analogous to a put option.
+
+An insurance option has the right to sell all or part of the good back to the insurance company at a later date.
+
+A premium is the amount that is negotiated between the buyer and seller, and the seller keeps the premium regardless of any subsequent decision on the part of the buyer.
+
+Exercise price is the amount the holder will recieve if certian events occur.
+
+The price option contracts is similar to price insurance contracts. Probability is assigned to make a fair value for the contract.
+
+By assigning probabilities to different outcomes, it may be possible to determine the contract's fair value.
+
+Underlying assest is used to derived value.
+
+The value of a call option is derived from the current value.
+
+The value of a put option is derived from the current value.
+
+The derived methods is why contracts are derivate contracts or derivates.
+
+A swap is an agreement to exchange cash flows. Most common is plain-vanilla interest-rate swap. It is an agreement to exchange fixed interest-rate payments for floating interest-rate payments.
+
+Derivates' profit is independent of the order in which the transaction occurs.
+
+Order must be open position and then close position.
+
+Measure of activity is done with open interest. It is the number of contracts traded on an exchange that have not yet been closed out.
+
+A long position will result in a debit and a short position will result in a credit.
+
+No cash flow results, there is no cash value assoicated with contracts.
+
+Notional or nominal value is equal to the number of units to be delivered at maturity multiplied by the unit price.
+
+The point value of a stock index or similar contract is set by the exchange so that the contract has a notional value that is deemed reasonable for trading. If points are too high may result in high risk and too low may result in high transaction cost.
+
+
+
